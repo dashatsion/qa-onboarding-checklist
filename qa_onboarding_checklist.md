@@ -1,7 +1,5 @@
 # QA Onboarding Checklist — Full List ✅
 
-> Numbered checklist for easier reference.
-
 ## General
 1. [ ] The methodology the project operates on (Agile, Waterfall?)
 2. [ ] What QA metrics are used on the project?
