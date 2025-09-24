@@ -1,0 +1,37 @@
+ID,Section,Question
+1,General,"The methodology the project operates on (Agile, Waterfall?)"
+2,General,What QA metrics are used on the project?
+3,General,Credentials for environments and 3rd party services
+4,Jira,"Jira flow (SDLC, work with labels, components)"
+5,Jira,Flow/tips on testing tickets. Any specific approach on testing front-end/back-end tickets? (complex approach)
+6,Jira,How to work with the columns? Any specific flow to move tickets?
+7,Jira,How to work with Backlog? Should the QA review Backlog for new Stories/Epics?
+8,Jira,What Issue types are used on the project?
+9,Defect management,How to report a Bug? Does the project have a specific template for Bugs reporting?
+10,Defect management,"Where should the QA report a Bug? (Backlog, Active Sprint?)"
+11,Defect management,How to prioritize a Bug?
+12,Defect management,Any specific schedule on reproducing old Bugs?
+13,Releases,Release flow (How often do releases occur?)
+14,Releases,Workflow of reporting Critical Bug. Whom to contact? Where it's supposed to be merged?
+15,Releases,How to give a green light to go to production? Any reports or written feedback is expected?
+16,Releases,What to do if there’s a blocker before the release?
+17,Releases,Regression testing flow before release
+18,Releases,Production testing flow
+19,Releases,Any other testing strategy before the releases
+20,Environments,Working with environments (Staging/Production)
+21,Environments,Is there any sensitive data for Production?
+22,Environments,Test data preparation flow
+23,Environments,Is there any features that can't be tested in the specific environment?
+24,Testing process,Is there a testing strategy used?
+25,Testing process,Discuss the Core functionality
+26,Testing process,Edge cases and workarounds for testing features
+27,Testing process,Any features/logic that needs double testing?
+28,Testing process,Specific plugins and services for testing
+29,Testing process,General overview of types of testing on each environment and/or step of the development (types of testing of the Engineers)
+30,Test documentation,General overview of the existing documentation (not only test documents)
+31,Test documentation,General Test cases
+32,Test documentation,Regression checklist
+33,Test documentation,Any kind of reports after/before the release?
+34,Test documentation,Workflow for Adding New TCs
+35,Test documentation,Workflow for Updating Old TCs
+36,Other,Bug analysis (root causes)
