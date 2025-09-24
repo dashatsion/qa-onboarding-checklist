@@ -30,7 +30,11 @@ The checklist is organized into sections:
 - **Test documentation** – existing docs, regression checklists, workflows for TCs  
 - **Other** – bug analysis and root causes  
 
-Total: **44 questions** to guide your onboarding.
+Total: **36 questions** to guide your onboarding.
+
+## 📸 Screenshots
+<img width="633" height="557" alt="Screenshot 2025-09-23 at 8 14 19 PM" src="https://github.com/user-attachments/assets/c4e042e2-9aa9-4cf0-b4b2-a484444f387b" />
+<img width="649" height="319" alt="Screenshot 2025-09-23 at 8 14 41 PM" src="https://github.com/user-attachments/assets/94ed8173-ca01-4ab9-9490-a797e86dba86" />
 
 ---
 
