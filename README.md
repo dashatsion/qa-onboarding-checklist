@@ -33,6 +33,7 @@ The checklist is organized into sections:
 Total: **36 questions** to guide your onboarding.
 
 ## 📸 Screenshots
+Here’s how it looks in Google Sheets:  
 
 <img width="633" height="557" alt="Screenshot 2025-09-23 at 8 14 19 PM" src="https://github.com/user-attachments/assets/c4e042e2-9aa9-4cf0-b4b2-a484444f387b" />
 
@@ -60,17 +61,20 @@ Or make your own **Google Sheets copy** for real-time collaboration.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-If you have more useful onboarding questions, feel free to open an Issue or submit a Pull Request.
+### How to contribute:  
+1. Fork this repo  
+2. Create a new branch (`git checkout -b feature-new-section`)  
+3. Commit your changes (`git commit -m 'Add new section/question'`)  
+4. Push to your branch (`git push origin feature-new-section`)  
+5. Open a Pull Request  
 
 ---
 
-## 📜 License
+## 📜 License  
+
 This project is licensed under the [MIT License](LICENSE).  
-You are free to use, adapt, and share it.
+You are free to use, adapt, and share it.  
 
 ---
 
-⭐ If you find this useful, give it a star and share it with your QA community!
+⭐ If you find this useful, give it a star and share it with your QA community!  
