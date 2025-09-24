@@ -1,4 +1,4 @@
-# QA Onboarding Checklist — Full List ✅
+# QA Onboarding Checklist ✅
 
 ## General
 1. [ ] The methodology the project operates on (Agile, Waterfall?)
