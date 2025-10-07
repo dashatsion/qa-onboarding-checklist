@@ -5,6 +5,9 @@
 
 # QA Onboarding Checklist  
 Structured onboarding framework for QA engineers joining automation projects — tools, docs, and best practices.
+---
+Maintained by [Dasha Tsion](https://github.com/dashatsion)
+
 
 
 # QA Onboarding Checklist 🚀
