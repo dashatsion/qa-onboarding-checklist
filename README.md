@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://github.com/dashatsion/qa-onboarding-checklist/stargazers"><img src="https://img.shields.io/github/stars/dashatsion/qa-onboarding-checklist?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/dashatsion/qa-onboarding-checklist/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
+</p>
+
+# QA Onboarding Checklist  
+Structured onboarding framework for QA engineers joining automation projects — tools, docs, and best practices.
+
+
 # QA Onboarding Checklist 🚀
 
 Being the **only QA on a project** can be overwhelming.  
